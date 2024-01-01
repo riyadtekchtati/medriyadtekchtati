@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Projet final</title>
+</head>
+<body>
+    <header>
+        <h1>Devaraj CK</h1>
+        <nav>
+            <a href="http://www.gmail.com">Un</a>
+            <a href="http://www.facebook.com">Deux</a>
+            <a href="http://www.google.com">Trois</a>
+            <a href="http://www.github.com/ammaritiz">Github</a><br>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Aliments préférés</h2>
+        <ul>
+            <li>Pav Bhaji</li>
+            <li>Gulab Jamun</li>
+            <li>Poulet</li>
+            <li>Le délice du diable</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Réalisations</h2>
+        <p>Progression dans ce cours (100%)</p>
+        <progress value="100" max="100"></progress>
+        <p>Progrès dans le capstone de spécialisation (20%)</p>
+        <progress value="20" max="100"></progress>
+        <p>Progrès dans les objectifs de vie (25%)</p>
+        <progress value="25" max="100"></progress>
+    </section>
+
+    <section>
+        <h2>En savoir plus sur moi</h2>
+        <details>
+            <summary>Mon enfance</summary>
+            <p>J'ai grandi à Tumkur. Je vivais dans une petite maison et le plaisir que j'avais à l'époque me manque vraiment.</p>
+        </details>
+    </section>
+
+    <footer>
+        <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Conception Web pour tous">
+        <p>Cette page a été créée par Devaraj & Colleen van Lent. Pour en savoir plus sur la conception Web, visitez <a href="http://www.intro-webdesign.com/">Introduction à la conception Web</a></p>
+    </footer>
+</body>
+</html>
